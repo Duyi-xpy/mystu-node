@@ -141,3 +141,20 @@ scale3d
 > skew 倾斜
 
 > translateX 
+
+## css3响应式
+
+# 媒体查询
+
+> @media
+
+``` css
+    @media(max-width:1000px){
+
+    }
+    /*或者*/
+    @import index.css (max-width:1000px);
+
+```
+
+- 媒体查询 并且  and    或者, 
